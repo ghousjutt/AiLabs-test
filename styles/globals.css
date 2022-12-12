@@ -1,0 +1,14 @@
+
+.inutStyle {
+  float: right;
+  width:97px;
+  border-radius: 0px;
+  color: transparent;
+  background-color: #ccc;
+}
+.lightFont{
+  font-weight:100;
+}
+.bgGrey {
+  background-color: #ccc;
+}
